@@ -1,0 +1,37 @@
+{
+    "Host": "servicespub.prod.api.aws.grupokabum.com.br",
+    "Path": "/banner/v5/ads",
+    "URL": "https://servicespub.prod.api.aws.grupokabum.com.br/banner/v5/ads",
+    "Status": 200,
+    "Headers": {
+        "date": "Sat, 21 Dec 2024 00:42:49 GMT",
+        "content-type": "application/json",
+        "content-length": "1933",
+        "server": "nginx",
+        "access-control-allow-credentials": "true",
+        "front-x-request_id": "d316eada67523658985986329cab76f9",
+        "strict-transport-security": "max-age=15552000",
+        "access-control-allow-origin": "https://www.kabum.com.br",
+        "access-control-allow-headers": "Origin, Content-Type, Accept, Mfa, mfa-code, mfa_code, client_id, client-id, session, x-dd-b, x-datadome-clientid, basket_id, delivery_uuid, service_provider, zip_code, Session, Id-Cliente",
+        "access-control-expose-headers": "x-dd-b",
+        "access-control-allow-methods": "GET, POST, PUT, OPTIONS, DELETE",
+        "x-azion-request-id": "aa1969a92a2f9b7f17ce2cba04159981-66930470",
+        "x-azion-edge-pop": "VVO"
+    },
+    "Body": {
+        "listagem": [
+            {
+                "ad_id": "deb66bb7-169e-452e-8b54-fa77420e75de",
+                "campaign_name": "ADS_APPLE_MACBOOKM4_LANÇAMENTO_DEZEMBRO_DISPLAYS",
+                "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/deb66bb7-169e-452e-8b54-fa77420e75de?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=banner&campaign_id=65384f72-93c0-4721-832a-cd02dc9f64cb&pname=listagem&ad_size=listagem_desktop&context=category&event_id=c6cb3e70-3745-436d-94d2-5c7da39f57c9&request_id=7588ad22-cff5-4ef2-959e-80af0dd31c92&session_id=960343832f14c03374958df776d02991&requested_at=1734741769854&sign=60c3033fbbf488f367d7e62ba2223d8f024d9e56da3051b79e2fb2d5343e817d",
+                "destination_url": "https://www.kabum.com.br/promocao/ADS_APPLE_LANCAMENTOM4_DEZEMBRO",
+                "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/deb66bb7-169e-452e-8b54-fa77420e75de?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=banner&campaign_id=65384f72-93c0-4721-832a-cd02dc9f64cb&pname=listagem&ad_size=listagem_desktop&context=category&event_id=c6cb3e70-3745-436d-94d2-5c7da39f57c9&request_id=7588ad22-cff5-4ef2-959e-80af0dd31c92&session_id=960343832f14c03374958df776d02991&requested_at=1734741769854&sign=c46c8f31661dd7d6d23073afd6932664dda9e95a49d0d62fdc78a256f8882ee5",
+                "media_url": "https://cdn2.newtail.com.br/retail_media/ads/2024/12/19/c36b690e302f5b64602dabaa04d30378.raw.png",
+                "position": 0,
+                "seller_id": null,
+                "type": "banner",
+                "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/deb66bb7-169e-452e-8b54-fa77420e75de?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=banner&campaign_id=65384f72-93c0-4721-832a-cd02dc9f64cb&pname=listagem&ad_size=listagem_desktop&context=category&event_id=c6cb3e70-3745-436d-94d2-5c7da39f57c9&request_id=7588ad22-cff5-4ef2-959e-80af0dd31c92&session_id=960343832f14c03374958df776d02991&requested_at=1734741769854&sign=a3e2e76bb2859ce3138168acbc59b74c682dab52fb73fc52cf27df794a09d506"
+            }
+        ]
+    }
+}

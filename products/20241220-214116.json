@@ -1,0 +1,28 @@
+{
+    "Host": "servicespub.prod.api.aws.grupokabum.com.br",
+    "Path": "/login/v3/usuario/session",
+    "URL": "https://servicespub.prod.api.aws.grupokabum.com.br/login/v3/usuario/session",
+    "Status": 200,
+    "Headers": {
+        "date": "Sat, 21 Dec 2024 00:42:48 GMT",
+        "content-type": "application/json",
+        "content-length": "105",
+        "vary": "Origin",
+        "back-x-request_id": "5aa2ca7a2f7dfcfa657b3ca1021e227a",
+        "front-x-request_id": "2601f9bdc841df0090500f9d9159cfbf",
+        "strict-transport-security": "max-age=15552000",
+        "access-control-allow-origin": "https://www.kabum.com.br",
+        "access-control-allow-headers": "Origin, Content-Type, Accept, Mfa, mfa-code, mfa_code, client_id, client-id, session, x-dd-b, x-datadome-clientid, basket_id, delivery_uuid, service_provider, zip_code, Session, Id-Cliente",
+        "access-control-expose-headers": "x-dd-b",
+        "access-control-allow-methods": "GET, POST, PUT, OPTIONS, DELETE",
+        "x-azion-request-id": "8dd16854cc4da648e5e2e3098c150dc8-66930470",
+        "x-azion-edge-pop": "VVO",
+        "version": "0.1"
+    },
+    "Body": {
+        "session": "960343832f14c03374958df776d02991",
+        "last": "1734741768",
+        "tmp_hash": null,
+        "sucesso": true
+    }
+}

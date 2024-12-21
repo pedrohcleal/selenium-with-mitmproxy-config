@@ -1,0 +1,476 @@
+{
+    "Host": "servicespub.prod.api.aws.grupokabum.com.br",
+    "Path": "/catalog/v2/sponsored_products?query=Computadores&context=category",
+    "URL": "https://servicespub.prod.api.aws.grupokabum.com.br/catalog/v2/sponsored_products?query=Computadores&context=category",
+    "Status": 200,
+    "Headers": {
+        "date": "Sat, 21 Dec 2024 00:42:51 GMT",
+        "content-type": "application/vnd.api+json",
+        "content-length": "36351",
+        "front-x-request_id": "758a916d8ddc908045fd2706b3f61f3f",
+        "strict-transport-security": "max-age=15552000",
+        "access-control-allow-origin": "https://www.kabum.com.br",
+        "access-control-allow-headers": "Origin, Content-Type, Accept, Mfa, mfa-code, mfa_code, client_id, client-id, session, x-dd-b, x-datadome-clientid, basket_id, delivery_uuid, service_provider, zip_code, Session, Id-Cliente",
+        "access-control-expose-headers": "x-dd-b",
+        "access-control-allow-methods": "GET, POST, PUT, OPTIONS, DELETE",
+        "x-azion-request-id": "ac9e82504e0603e31e1445491dd6ab83-66930470",
+        "x-azion-edge-pop": "VVO",
+        "version": "0.1"
+    },
+    "Body": {
+        "data": [
+            {
+                "type": "product",
+                "id": 505676,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Notebooks/Macbook/Macbook Pro",
+                    "title": "MacBook Pro Apple 14\", M3, CPU 8 Núcleos, GPU 10 Núcleos, 8GB RAM, SSD 1TB, Cinza-espacial - MTL83BZ/A",
+                    "description": "<h2>Notebook MacBook Pro Apple</h2>\n<p>&nbsp;</p>\n<h2>Um verdadeiro salto triplo.</h2>\n<p>O MacBook Pro chega a um outro patamar com os chips <strong>M3</strong>, <strong>M3 Pro</strong> e <strong>M3 Max</strong>. Produzidos com a tecnologia de tr&ecirc;s nan&ocirc;metros e uma nova arquitetura de GPU, s&atilde;o os chips mais avan&ccedil;ados em um computador pessoal at&eacute; hoje. E cada um traz mais desempenho e capacidade para profissionais.</p>\n<p>&nbsp;</p>\n<h2>Alto desempenho gr&aacute;fico</h2>\n<p>Descubra uma nova classe de arquitetura de <strong>GPU</strong> e a maior revolu&ccedil;&atilde;o em processamento gr&aacute;fico em um chip da Apple. O <strong>Dynamic Caching</strong> otimiza a mem&oacute;ria r&aacute;pida do sistema para ampliar drasticamente o uso m&eacute;dio da GPU. O aumento do desempenho &eacute; gritante para apps e jogos pesados.</p>\n<p>&nbsp;</p>\n<h2>Pro para toda obra</h2>\n<p>O MacBook Pro tem a maior dura&ccedil;&atilde;o de bateria em um Mac: <strong>at&eacute; 22 horas</strong>. Essa &eacute; a m&aacute;gica por tr&aacute;s da efici&ecirc;ncia dos chips da Apple. Todos os modelos mant&ecirc;m o alto rendimento ligados na tomada ou n&atilde;o. Eles est&atilde;o sempre prontos para quando a inspira&ccedil;&atilde;o bater ou o dever chamar.</p>\n<p>&nbsp;</p>\n<h2>A melhor tela de notebook j&aacute; vista</h2>\n<p>O <strong>Extreme Dynamic Range (XDR)</strong> garante realces nas &aacute;reas de luz, detalhes incr&iacute;veis nas sombras, al&eacute;m de cores realistas e vibrantes. A tela <strong>Liquid Retina XDR</strong> j&aacute; vem calibrada de f&aacute;brica e conta com <strong>ProMotion</strong> e modos de imagem profissionais.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                    "price": 15333.32,
+                    "old_price": 0.0,
+                    "price_with_discount": 13799.99,
+                    "offer": null,
+                    "prime": null,
+                    "is_prime": false,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 5,
+                    "number_of_ratings": 2,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 60,
+                        "name": "Apple",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-apple.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": null,
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/505676/notebook-macbook-pro-apple-tela-retina-14-chip-m3-8gb-ram-cpu-8-nucleos-gpu-10-nucleos-ssd-1tb-cinza-espacial-mtl83bz-a_1702572333_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/226f278f-0da7-4a92-88d0-e8e61b490e69?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=58fb2e80-3e18-4551-b5f7-1abcf0cd2a91&pname=produto&context=category&event_id=7c810e51-ea66-48f7-819d-23f6d9ac1684&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=325e1609da0ad2bd108b4a5929fe0b30e92a26dbf62aa0d630e741f465a4c770",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/226f278f-0da7-4a92-88d0-e8e61b490e69?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=58fb2e80-3e18-4551-b5f7-1abcf0cd2a91&pname=produto&context=category&event_id=7c810e51-ea66-48f7-819d-23f6d9ac1684&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=bc59feb2393efbe665782a38007ebf06d810f2875b252c2d668583d78a66e6fd",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/226f278f-0da7-4a92-88d0-e8e61b490e69?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=58fb2e80-3e18-4551-b5f7-1abcf0cd2a91&pname=produto&context=category&event_id=7c810e51-ea66-48f7-819d-23f6d9ac1684&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=7d37e758a6876ef67de6f0859093e08afabf5e72c08f2438e7932eff3a943d67",
+                        "destination_url": "https://www.kabum.com.br/produto/505676/macbook-pro-apple-14-m3-cpu-8-nucleos-gpu-10-nucleos-8gb-ram-ssd-1tb-cinza-espacial-mtl83bz-a"
+                    },
+                    "max_installment": "10x de R$ 1533,33",
+                    "max_installment_prime": null
+                }
+            },
+            {
+                "type": "product",
+                "id": 518049,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Notebooks/Notebook Asus",
+                    "title": "Notebook Asus VivoBook Go 15 E1504FA AMD RYZEN 5 7520U, 8GB RAM, SSD 256GB, 15,6\" LED FHD, W11 Home - E1504FA-NJ825W",
+                    "description": "<h2>Notebook ASUS VivoBook Go 15</h2>\n<p>&nbsp;</p>\n<h2>Miss&atilde;o Cumprida</h2>\n<p>O Vivobook Go 15 &eacute; equipado com processador <strong>AMD Ryzen 5</strong>, e r&aacute;pida mem&oacute;ria <strong>RAM de 8 GB LPDDR5</strong>, tudo para ajud&aacute;-lo a concluir suas tarefas com mais produtividade.</p>\n<p>&nbsp;</p>\n<h2>Carregamento R&aacute;pido</h2>\n<p><strong>Suporta carregamento r&aacute;pido</strong>, para que voc&ecirc; possa recarregar at&eacute; 60% de sua bateria de <strong>42 Wh</strong> em apenas 49 minutos. Voc&ecirc; estar&aacute; pronto para a a&ccedil;&atilde;o mais r&aacute;pido do que nunca!</p>\n<p>&nbsp;</p>\n<h2>Excelente &Aacute;udio Para Ouvir o Mundo</h2>\n<p>O Vivobook Go 15 oferece um som incrivelmente poderoso e l&iacute;mpido, gra&ccedil;as &agrave; ao<strong> ASUS SonicMaster</strong>. A combina&ccedil;&atilde;o de hardware e software aumenta o volume e remove o ru&iacute;do, melhorando a clareza do &aacute;udio para que voc&ecirc; obtenha um som mais envolvente.</p>\n<p>&nbsp;</p>\n<h2>Totalmente Aberto Para Melhor Visualiza&ccedil;&atilde;o</h2>\n<p>Apresenta uma<strong> dobradi&ccedil;a plana de 180&deg;</strong>, projetada com precis&atilde;o para facilitar a visualiza&ccedil;&atilde;o dos conte&uacute;dos em tela por qualquer pessoa ao redor.</p>\n<p>&nbsp;</p>\n<h2>Perfeito em Todos os Detalhes</h2>\n<p><strong>Voc&ecirc; totalmente conectado</strong>. H&aacute; uma porta <strong>USB-C 3.2 Gera&ccedil;&atilde;o 1</strong>, portas USB 3.2 Gera&ccedil;&atilde;o 1 Tipo-A, uma porta USB 2.0, sa&iacute;da <strong>HDMI</strong> e um conector de &aacute;udio de 3,5 mm para fone/microfone &mdash; que facilita a conex&atilde;o de todos os perif&eacute;ricos, monitores e projetores existentes.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                    "price": 4512.0,
+                    "old_price": 0.0,
+                    "price_with_discount": 4060.8,
+                    "offer": {
+                        "id": "893209",
+                        "name": "NATAL NINJA",
+                        "reference_banner": "natalninja",
+                        "starts_at": 1733740980,
+                        "ends_at": 1735232400,
+                        "quantity_available": 97,
+                        "price": 3111.1,
+                        "price_with_discount": 2799.99,
+                        "discount_percentage": 31,
+                        "is_logged_user_exclusive": false,
+                        "hash_code": "f47983b129de4bfeda979e1c5c90d950137b53b9"
+                    },
+                    "prime": null,
+                    "is_prime": false,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 5,
+                    "number_of_ratings": 1,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 1,
+                        "name": "ASUS",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-asus.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": null,
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/518049/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-ssd-256gb-15-6-led-fhd-w11-home-e1504fa-nj825w_1726667647_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/62b9545a-c4c4-4f96-916f-0a3177adfb80?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=ee9831e9-1fa0-4433-a346-01c785f9bb29&pname=produto&context=category&event_id=1adce530-fefb-457e-9809-e54cc538b30f&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=768ad0f4bc6615e6e145d865fa732c4fdb86eb3a3dd424e3963245639afca667",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/62b9545a-c4c4-4f96-916f-0a3177adfb80?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=ee9831e9-1fa0-4433-a346-01c785f9bb29&pname=produto&context=category&event_id=1adce530-fefb-457e-9809-e54cc538b30f&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=d8e86ab9c0fa44f839b87501faef46f92d5c6aa5afffb03fa29e64517794a61f",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/62b9545a-c4c4-4f96-916f-0a3177adfb80?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=ee9831e9-1fa0-4433-a346-01c785f9bb29&pname=produto&context=category&event_id=1adce530-fefb-457e-9809-e54cc538b30f&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=0beb133ef02fec4d58feceb068d9fc48c701c69911b6b9c72bf290ee44ea6fbb",
+                        "destination_url": "https://www.kabum.com.br/produto/518049/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-ssd-256gb-15-6-led-fhd-w11-home-e1504fa-nj825w"
+                    },
+                    "max_installment": "10x de R$ 311,11",
+                    "max_installment_prime": null
+                }
+            },
+            {
+                "type": "product",
+                "id": 505675,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Notebooks/Macbook/Macbook Pro",
+                    "title": "MacBook Pro Apple 14\", M3, CPU 8 Núcleos, GPU 10 Núcleos, 8GB, SSD 512GB, Cinza Espacial",
+                    "description": "<h2>Notebook MacBook Pro Apple</h2>\n<p>&nbsp;</p>\n<h2>Um verdadeiro salto triplo.</h2>\n<p>O MacBook Pro chega a um outro patamar com os chips <strong>M3</strong>, <strong>M3 Pro</strong> e <strong>M3 Max</strong>. Produzidos com a tecnologia de tr&ecirc;s nan&ocirc;metros e uma nova arquitetura de GPU, s&atilde;o os chips mais avan&ccedil;ados em um computador pessoal at&eacute; hoje. E cada um traz mais desempenho e capacidade para profissionais.</p>\n<p>&nbsp;</p>\n<h2>Alto desempenho gr&aacute;fico</h2>\n<p>Descubra uma nova classe de arquitetura de <strong>GPU</strong> e a maior revolu&ccedil;&atilde;o em processamento gr&aacute;fico em um chip da Apple. O <strong>Dynamic Caching</strong> otimiza a mem&oacute;ria r&aacute;pida do sistema para ampliar drasticamente o uso m&eacute;dio da GPU. O aumento do desempenho &eacute; gritante para apps e jogos pesados.</p>\n<p>&nbsp;</p>\n<h2>Pro para toda obra</h2>\n<p>O MacBook Pro tem a maior dura&ccedil;&atilde;o de bateria em um Mac: <strong>at&eacute; 22 horas</strong>. Essa &eacute; a m&aacute;gica por tr&aacute;s da efici&ecirc;ncia dos chips da Apple. Todos os modelos mant&ecirc;m o alto rendimento ligados na tomada ou n&atilde;o. Eles est&atilde;o sempre prontos para quando a inspira&ccedil;&atilde;o bater ou o dever chamar.</p>\n<p>&nbsp;</p>\n<h2>A melhor tela de notebook j&aacute; vista</h2>\n<p>O <strong>Extreme Dynamic Range (XDR)</strong> garante realces nas &aacute;reas de luz, detalhes incr&iacute;veis nas sombras, al&eacute;m de cores realistas e vibrantes. A tela <strong>Liquid Retina XDR</strong> j&aacute; vem calibrada de f&aacute;brica e conta com <strong>ProMotion</strong> e modos de imagem profissionais.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                    "price": 13777.77,
+                    "old_price": 0.0,
+                    "price_with_discount": 12399.99,
+                    "offer": null,
+                    "prime": null,
+                    "is_prime": false,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 4,
+                    "number_of_ratings": 2,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 60,
+                        "name": "Apple",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-apple.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": null,
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/505675/notebook-macbook-pro-apple-tela-retina-14-chip-m3-8gb-ram-cpu-8-nucleos-gpu-10-nucleos-ssd-512gb-cinza-espacial-mtl73bz-a_1702567275_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/aa491ca6-28a8-4a0a-ad91-4dc84a81128a?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=58fb2e80-3e18-4551-b5f7-1abcf0cd2a91&pname=produto&context=category&event_id=a9ac70f1-55b9-46aa-8b8e-c6e80259b255&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=667bf6b021c52ed6d25da4151dabb47ff5ca9d8ca06bf853a41fb2646567f778",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/aa491ca6-28a8-4a0a-ad91-4dc84a81128a?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=58fb2e80-3e18-4551-b5f7-1abcf0cd2a91&pname=produto&context=category&event_id=a9ac70f1-55b9-46aa-8b8e-c6e80259b255&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=273c72b1a122335555c5e1ddaac2f270bd1ab2cc0d8f4979bcc4ccbf6e8268dd",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/aa491ca6-28a8-4a0a-ad91-4dc84a81128a?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=58fb2e80-3e18-4551-b5f7-1abcf0cd2a91&pname=produto&context=category&event_id=a9ac70f1-55b9-46aa-8b8e-c6e80259b255&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=d293e29778a5273741958dbc7a251e7c23c0c9c3ca1c923062b53c30e133451c",
+                        "destination_url": "https://www.kabum.com.br/produto/505675/macbook-pro-apple-14-m3-cpu-8-nucleos-gpu-10-nucleos-8gb-ssd-512gb-cinza-espacial"
+                    },
+                    "max_installment": "10x de R$ 1377,77",
+                    "max_installment_prime": null
+                }
+            },
+            {
+                "type": "product",
+                "id": 620571,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Notebooks/Notebook Gamer/Notebook MSI",
+                    "title": "Notebook Gamer MSI Katana A17 AI AMD Ryzen 7-8845HS, 16GB RAM, SSD 512GB, 15.6\" IPS FHD 144Hz, RTX 4060, Win 11H, Preto - 9S7-17LN31-1003",
+                    "description": "<h2>Notebook Gamer MSI Katana A17 AI</h2>\n<p>&nbsp;</p>\n<h3>Desempenho De Ponta</h3>\n<p>Com um <strong>processador AMD Ryzen 7 8845HS</strong> e uma <strong>placa de v&iacute;deo NVIDIA GeForce RTX 4060</strong>, o Katana A17 oferece um desempenho incr&iacute;vel, ideal para jogos e tarefas do dia a dia.</p>\n<p>&nbsp;</p>\n<h3>Visuais De Tirar O F&ocirc;lego</h3>\n<p>A <strong>tela FHD de 144 Hz</strong> proporciona uma experi&ecirc;ncia visual imersiva, com cores vibrantes e movimentos fluidos, te transportando para dentro do jogo.</p>\n<p>&nbsp;</p>\n<h3>Design Moderno E Robusto</h3>\n<p>O <strong>design elegante</strong> e a constru&ccedil;&atilde;o robusta garantem um visual atraente e durabilidade para acompanhar voc&ecirc; em suas aventuras.</p>\n<p>&nbsp;</p>\n<h3>Conectividade Avan&ccedil;ada</h3>\n<p>Com <strong>Wi-Fi 6E</strong> de &uacute;ltima gera&ccedil;&atilde;o e diversas portas <strong>USB</strong>, voc&ecirc; poder&aacute; conectar todos os seus dispositivos e acess&oacute;rios favoritos.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                    "price": 15888.88,
+                    "old_price": 0.0,
+                    "price_with_discount": 14299.99,
+                    "offer": {
+                        "id": "888135",
+                        "name": "NATAL NINJA",
+                        "reference_banner": "natalninja",
+                        "starts_at": 1733226780,
+                        "ends_at": 1735232400,
+                        "quantity_available": 3,
+                        "price": 14111.1,
+                        "price_with_discount": 12699.99,
+                        "discount_percentage": 11,
+                        "is_logged_user_exclusive": false,
+                        "hash_code": "95e7120f3b8f8d7ada69029390870fe6d37a7171"
+                    },
+                    "prime": {
+                        "price": 13405.55,
+                        "price_with_discount": 12065.0,
+                        "discount_percentage": 15,
+                        "save": 635.0,
+                        "is_logged_user_exclusive": true
+                    },
+                    "is_prime": true,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 0,
+                    "number_of_ratings": 0,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 2,
+                        "name": "MSI",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": null,
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/620571/notebook-gamer-msi-katana-a17-ai-amd-ryzen-7-8845hs-16gb-ram-ssd-512gb-15-6-ips-fhd-144hz-rtx-4060-win-11h-preto-9s7-17ln31-1003_1730316678_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/43a319f6-fc62-4e74-90d7-f545c1a8fc51?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=2c39fcae-7e67-4781-a192-e8a337e0eb0f&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=f26f08f0a05019517e2325913ff07cd3633b65ea93926f9fdbcc39fcaccc69ab",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/43a319f6-fc62-4e74-90d7-f545c1a8fc51?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=2c39fcae-7e67-4781-a192-e8a337e0eb0f&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=86c74ee6442e46a32492c85b82dc32748ccc608cbd5d92c081d1610d6fa9e6ab",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/43a319f6-fc62-4e74-90d7-f545c1a8fc51?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=2c39fcae-7e67-4781-a192-e8a337e0eb0f&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=54c46f2b04b45d136005c318eccb48ff67f7e708ff74003a4bc2c4ccbe279a51",
+                        "destination_url": "https://www.kabum.com.br/produto/620571/notebook-gamer-msi-katana-a17-ai-amd-ryzen-7-8845hs-16gb-ram-ssd-512gb-15-6-ips-fhd-144hz-rtx-4060-win-11h-preto-9s7-17ln31-1003"
+                    },
+                    "max_installment": "10x de R$ 1411,11",
+                    "max_installment_prime": "10x de R$ 1340,55"
+                }
+            },
+            {
+                "type": "product",
+                "id": 620575,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Notebooks/Notebook Gamer/Notebook MSI",
+                    "title": "Notebook Gamer MSI Thin A15 AMD Ryzen 5-7535HS, 8GB RAM, SSD 512GB, 15.6\" IPS FHD 144Hz, RTX 2050, Win 11H, Cinza - 9S7-16RK11-282",
+                    "description": "<h2>Notebook Gamer MSI Thin A15</h2>\n<p>&nbsp;</p>\n<h3>Desempenho De Elite</h3>\n<p>Equipado com o poderoso <strong>processador AMD Ryzen 5 7535HS</strong> e a <strong>placa de v&iacute;deo NVIDIA GeForce RTX 2050</strong>, o Thin A15 oferece <strong>desempenho incompar&aacute;vel</strong> para rodar os jogos mais exigentes com gr&aacute;ficos fluidos e alta resolu&ccedil;&atilde;o.</p>\n<p>&nbsp;</p>\n<h3>Produtividade Sem Limites</h3>\n<p>Al&eacute;m de ser uma m&aacute;quina de jogos, o Thin A15 &eacute; perfeito para trabalhos criativos e multitarefas. Com <strong>mem&oacute;ria RAM de alta velocidade</strong>, voc&ecirc; poder&aacute; executar seus programas com fluidez e efici&ecirc;ncia.</p>\n<p>&nbsp;</p>\n<h3>Visuais Deslumbrantes</h3>\n<p>A <strong>tela FHD de 144 Hz</strong> proporciona cores vibrantes e imagens n&iacute;tidas, garantindo uma <strong>experi&ecirc;ncia visual imersiva</strong> que te transportar&aacute; para dentro do jogo.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                    "price": 8444.43,
+                    "old_price": 0.0,
+                    "price_with_discount": 7599.99,
+                    "offer": {
+                        "id": "888145",
+                        "name": "NATAL NINJA",
+                        "reference_banner": "natalninja",
+                        "starts_at": 1733226780,
+                        "ends_at": 1735232400,
+                        "quantity_available": 3,
+                        "price": 7444.43,
+                        "price_with_discount": 6699.99,
+                        "discount_percentage": 11,
+                        "is_logged_user_exclusive": false,
+                        "hash_code": "14a02a131e5f8da1861e9af3bf59610ca6cbee74"
+                    },
+                    "prime": {
+                        "price": 7072.21,
+                        "price_with_discount": 6364.99,
+                        "discount_percentage": 16,
+                        "save": 335.0,
+                        "is_logged_user_exclusive": true
+                    },
+                    "is_prime": true,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 0,
+                    "number_of_ratings": 0,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 2,
+                        "name": "MSI",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": null,
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/620575/notebook-gamer-msi-thin-a15-amd-ryzen-5-7535hs-8gb-ram-ssd-512gb-15-6-ips-fhd-144hz-rtx-2050-win-11h-cinza-9s7-16rk11-282_1730383449_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/4d3e37f6-50b1-43c3-9b44-840590a40257?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=5dec3e96-8672-48a5-b962-f27a7d4a7114&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=2d630c296929274e1a06b49671339110b362e82d8345a0d24fe0dc50eff520f6",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/4d3e37f6-50b1-43c3-9b44-840590a40257?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=5dec3e96-8672-48a5-b962-f27a7d4a7114&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=a750bc1ad1d94f8a23b657a897e13b45f7a8581dd693757fbfaa10281982a123",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/4d3e37f6-50b1-43c3-9b44-840590a40257?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=5dec3e96-8672-48a5-b962-f27a7d4a7114&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=b80e44042bc8f163d953c21db2a56883c10989486d90de24059416f9ca270409",
+                        "destination_url": "https://www.kabum.com.br/produto/620575/notebook-gamer-msi-thin-a15-amd-ryzen-5-7535hs-8gb-ram-ssd-512gb-15-6-ips-fhd-144hz-rtx-2050-win-11h-cinza-9s7-16rk11-282"
+                    },
+                    "max_installment": "10x de R$ 744,44",
+                    "max_installment_prime": "10x de R$ 707,22"
+                }
+            },
+            {
+                "type": "product",
+                "id": 228879,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Impressoras/Impressora Multifuncional/Multifuncional Tanque de Tinta",
+                    "title": "Impressora Multifuncional Epson EcoTank L4260, Jato de Tinta, Colorida, WiFi, Visor LCD, USB, Bivolt, Preto - C11CJ63302",
+                    "description": "<h2>Impressora Multifuncional Epson EcoTank L4260, Jato de Tinta, Colorida, Wifi, Visor LCD, USB, Bivolt</h2>\n<h2>&nbsp;</h2>\n<p>&bull;&nbsp; <strong>Baixo custo de impress&atilde;o</strong>: imprima at&eacute; 7.500 p&aacute;ginas em preto e 6.000 p&aacute;ginas coloridas1 com cada kit de tintas de reposi&ccedil;&atilde;o original</p>\n<p>&bull;&nbsp; <strong>Maior produtividade</strong>:&nbsp; impress&atilde;o frente e verso autom&aacute;tica (Auto Duplex)</p>\n<p>&bull;&nbsp; <strong>Conectividade avan&ccedil;ada</strong>: com cabo USB, Wi-Fi, Wi-Fi Direct2 para impress&atilde;o sem fio diretamente de seus dispositivos m&oacute;veis.</p>\n<p>&bull;&nbsp; <strong>Economia</strong>, confiabilidade e performance incompor&aacute;veis: com a tecnologia Heat-Free da Epson que evita altos custos de impress&atilde;o e desperd&iacute;cio, garante qualidade &agrave;s impress&otilde;es, al&eacute;m de conferir longa vida e alta performance ao equipamento. A op&ccedil;&atilde;o mais inteligente para empreendedores.</p>\n<p>&bull;&nbsp; <strong>Agilidade em qualquer lugar</strong>: Aproveite todo potencial e produtividade da sua impressora diretamente pelo seu dispositivo m&oacute;vel. Configure, opere e resolva problemas remotamente atrav&eacute;s do novo aplicativo intuitivo Smart Panel.</p>\n<p>&nbsp;</p>\n<p>A Epson EcoTank L4260 &eacute; uma multifuncional tanque de tinta 3 em 1 que proporciona maior produtividade com a fun&ccedil;&atilde;o Auto Duplex, impress&atilde;o frente e verso autom&aacute;tica para economia de papel e conectividade avan&ccedil;ada com os recursos Wi-Fi, Wi-Fi Direct, e impress&atilde;o a partir de dispositivos m&oacute;veis atrav&eacute;s do novo aplicativo Epson Smart Panel. A tecnologia Heat-Free da Epson n&atilde;o requer aquecimento da tinta no processo, e com isso garante mais rapidez, economia de energia e confiabilidade &agrave; impressora.&nbsp;</p>",
+                    "price": 2197.52,
+                    "old_price": 0.0,
+                    "price_with_discount": 1977.77,
+                    "offer": {
+                        "id": "883296",
+                        "name": "PAY DAY",
+                        "reference_banner": "payday",
+                        "starts_at": 1734634800,
+                        "ends_at": 1734955200,
+                        "quantity_available": 227,
+                        "price": 1566.66,
+                        "price_with_discount": 1409.99,
+                        "discount_percentage": 28,
+                        "is_logged_user_exclusive": false,
+                        "hash_code": "73abe96cac3a1cd76b60a8593873147659b3be93"
+                    },
+                    "prime": null,
+                    "is_prime": false,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 5,
+                    "number_of_ratings": 20,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 41,
+                        "name": "Epson",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-epson.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": {
+                        "id": 275,
+                        "title": "PAY DAY",
+                        "name": "pay_day",
+                        "description": "Ofertas de Natal para aproveitar com o 13º, tem até 70% OFF e Frete Grátis*",
+                        "link_rule": "https://themes.kabum.com.br/conteudo/stamps/pay_day.json",
+                        "background_color": "#14e12c",
+                        "font_color": "#000000",
+                        "type": "padrao"
+                    },
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/228879/impressora-multifuncional-epson-ecotank-l4260-jato-de-tinta-colorida-wifi-wireless-visor-lcd-usb-bivolt-preto-c11cj63302_1635343802_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/76afa115-eb7e-4327-b6be-4da0a47c749f?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=4987d4a5-821d-41b5-95ac-0a24368a0f1e&pname=produto&context=category&event_id=98dcd2d9-0428-4569-988d-67439d6778d1&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=746b8a1ae8a902c02228f2ca2b3bd838f02432880acaa0115354ea41ae85ff45",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/76afa115-eb7e-4327-b6be-4da0a47c749f?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=4987d4a5-821d-41b5-95ac-0a24368a0f1e&pname=produto&context=category&event_id=98dcd2d9-0428-4569-988d-67439d6778d1&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=d7fe337a85617fbe3dd7aa65f9fc864a2ecdfa122d998a5e3daffffad652fc89",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/76afa115-eb7e-4327-b6be-4da0a47c749f?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=4987d4a5-821d-41b5-95ac-0a24368a0f1e&pname=produto&context=category&event_id=98dcd2d9-0428-4569-988d-67439d6778d1&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=092ec824416f2b1adf5f67e2b0173a7de688383a066083d88b21f0829d9c5eb1",
+                        "destination_url": "https://www.kabum.com.br/produto/228879/impressora-multifuncional-epson-ecotank-l4260-jato-de-tinta-colorida-wifi-visor-lcd-usb-bivolt-preto-c11cj63302"
+                    },
+                    "max_installment": "10x de R$ 156,66",
+                    "max_installment_prime": null
+                }
+            },
+            {
+                "type": "product",
+                "id": 220523,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Impressoras/Impressora Multifuncional/Multifuncional Tanque de Tinta",
+                    "title": "Impressora Multifuncional Epson EcoTank L3250, Colorida, Wifi, Wireless, USB, Bivolt, Preta - C11CJ67303",
+                    "description": "<h2>Impressora Multifuncional Epson EcoTank L3250</h2>\n<p>&nbsp;</p>\n<p>A Epson EcoTank L3250 &eacute; uma<strong> impressora multifuncional 3 em 1</strong> com tanque de tinta e <strong>conex&atilde;o wireless</strong>, projetada para atender fam&iacute;lias, estudantes e profissionais. Com o sistema EcoTank, oferece um baixo custo de impress&atilde;o, sendo capaz de imprimir <strong>at&eacute; 4.500 p&aacute;ginas em preto</strong> e <strong>7.500 p&aacute;ginas coloridas</strong>&nbsp;com cada kit de garrafas de reposi&ccedil;&atilde;o original.</p>\n<p>&nbsp;</p>\n<h3>Tecnologia Heat-Free</h3>\n<p>A <strong>tecnologia Heat-Free</strong> da Epson n&atilde;o requer aquecimento da tinta durante o processo de impress&atilde;o, proporcionando maior rapidez, economia de energia e confiabilidade.</p>\n<p>&nbsp;</p>\n<h3>Experi&ecirc;ncia de Abastecimento Simples</h3>\n<p>Com a<strong> tecnologia EcoFit</strong>, a Epson L3250 garante um abastecimento simples, sem sujeira e sem desperd&iacute;cios. Os tanques frontais permitem f&aacute;cil acesso e visualiza&ccedil;&atilde;o dos n&iacute;veis de tinta.</p>\n<p>&nbsp;</p>\n<h3>Conectividade Avan&ccedil;ada</h3>\n<p>Projetada para um estilo de vida inteligente, a Epson L3250 possui recursos avan&ccedil;ados de conectividade, incluindo <strong>Wi-Fi</strong>, <strong>Wi-Fi Direct</strong> e impress&atilde;o a partir de dispositivos m&oacute;veis atrav&eacute;s do aplicativo Epson Smart Panel. Seu design compacto permite que a multifuncional se encaixe nos menores espa&ccedil;os.</p>\n<p>&nbsp;</p>\n<h3>Compre agora no KaBuM!</h3>",
+                    "price": 1444.43,
+                    "old_price": 0.0,
+                    "price_with_discount": 1299.99,
+                    "offer": {
+                        "id": "892539",
+                        "name": "PAY DAY",
+                        "reference_banner": "payday",
+                        "starts_at": 1734634800,
+                        "ends_at": 1734955200,
+                        "quantity_available": 246,
+                        "price": 1176.67,
+                        "price_with_discount": 1059.0,
+                        "discount_percentage": 18,
+                        "is_logged_user_exclusive": false,
+                        "hash_code": "8e3520651af81abebbdcdd40a7685f92da1031dc"
+                    },
+                    "prime": null,
+                    "is_prime": false,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 5,
+                    "number_of_ratings": 32,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 41,
+                        "name": "Epson",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-epson.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": {
+                        "id": 275,
+                        "title": "PAY DAY",
+                        "name": "pay_day",
+                        "description": "Ofertas de Natal para aproveitar com o 13º, tem até 70% OFF e Frete Grátis*",
+                        "link_rule": "https://themes.kabum.com.br/conteudo/stamps/pay_day.json",
+                        "background_color": "#14e12c",
+                        "font_color": "#000000",
+                        "type": "padrao"
+                    },
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/220523/impressora-multifuncional-epson-ecotank-l3250-colorida-wifi-wireless-usb-bivolt-preta-c11cj67303_1631558698_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/4308688a-f163-42c7-973a-b20b2f894552?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=4987d4a5-821d-41b5-95ac-0a24368a0f1e&pname=produto&context=category&event_id=881f482a-50ad-4bd4-aef0-d7c9274f27d0&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=ce133ceb40a1f85edaf43fc698454269eaa75a51060af21483ae38256a0ed76d",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/4308688a-f163-42c7-973a-b20b2f894552?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=4987d4a5-821d-41b5-95ac-0a24368a0f1e&pname=produto&context=category&event_id=881f482a-50ad-4bd4-aef0-d7c9274f27d0&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=df33474e9f9b341bb5bdb55f346245c1d07737047d8b2eec8e4949fa9658c286",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/4308688a-f163-42c7-973a-b20b2f894552?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=4987d4a5-821d-41b5-95ac-0a24368a0f1e&pname=produto&context=category&event_id=881f482a-50ad-4bd4-aef0-d7c9274f27d0&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=0a36dcb86408c42c5eb54908650aa3746ae77a5e325257d233d6aef3d74f9b0e",
+                        "destination_url": "https://www.kabum.com.br/produto/220523/impressora-multifuncional-epson-ecotank-l3250-colorida-wifi-wireless-usb-bivolt-preta-c11cj67303"
+                    },
+                    "max_installment": "10x de R$ 117,66",
+                    "max_installment_prime": null
+                }
+            },
+            {
+                "type": "product",
+                "id": 620580,
+                "relationships": {},
+                "attributes": {
+                    "menu": "Computadores/Notebooks/Notebook Gamer/Notebook MSI",
+                    "title": "Notebook Gamer MSI Creator M16 HX Intel Core i7-14700HX, 32GB RAM, SSD 1TB, 16\" IPS FHD+ 144Hz RTX 4050, Win 11 PRO, Cinza - 9S7-15P212-659",
+                    "description": "<h2>Notebook Gamer MSI Creator M16 HX</h2>\n<p>&nbsp;</p>\n<h3>Pot&ecirc;ncia Bruta para Criar Sem Limites</h3>\n<p>Equipado com o poderoso <strong>processador Intel Core i7 14700HX</strong>&nbsp;e a <strong>placa de v&iacute;deo NVIDIA GeForce RTX 4050</strong>, o MSI Creator M16 HX oferece um <strong>desempenho incompar&aacute;vel</strong> para lidar com as tarefas mais exigentes, como <strong>renderiza&ccedil;&atilde;o de v&iacute;deos 4K</strong>, <strong>modelagem 3D</strong> e <strong>jogos AAA.</strong> Com <strong>20 n&uacute;cleos</strong>, voc&ecirc; ter&aacute; a pot&ecirc;ncia necess&aacute;ria para dar vida &agrave;s suas ideias mais criativas.</p>\n<p>&nbsp;</p>\n<h3>Tela Vibrante</h3>\n<p>A <strong>tela FHD+ de 16 polegadas</strong> com <strong>taxa de atualiza&ccedil;&atilde;o de 144 Hz</strong> proporciona uma experi&ecirc;ncia visual incr&iacute;vel. Se voc&ecirc; &eacute; um designer gr&aacute;fico, fot&oacute;grafo ou editor de v&iacute;deo, essa tela &eacute; perfeita para garantir que suas cria&ccedil;&otilde;es tenham a qualidade que voc&ecirc; merece.</p>\n<p>&nbsp;</p>\n<h3>Conectividade Completa</h3>\n<p>Com uma <strong>ampla variedade de portas</strong>, incluindo <strong>HDMI 2.1 e Wi-Fi 6E</strong>, o MSI Creator M16 HX oferece todas as conex&otilde;es necess&aacute;rias para voc&ecirc; se conectar a diversos dispositivos e acess&oacute;rios.</p>\n<p>&nbsp;</p>\n<h3>Compre j&aacute; o seu no KaBuM!</h3>",
+                    "price": 18444.43,
+                    "old_price": 0.0,
+                    "price_with_discount": 16599.99,
+                    "offer": {
+                        "id": "888134",
+                        "name": "NATAL NINJA",
+                        "reference_banner": "natalninja",
+                        "starts_at": 1733226780,
+                        "ends_at": 1735232400,
+                        "quantity_available": 3,
+                        "price": 16444.43,
+                        "price_with_discount": 14799.99,
+                        "discount_percentage": 10,
+                        "is_logged_user_exclusive": false,
+                        "hash_code": "de45f65d8d27f4cdfc36ecaba60e6098d5a4e11f"
+                    },
+                    "prime": {
+                        "price": 15622.21,
+                        "price_with_discount": 14059.99,
+                        "discount_percentage": 15,
+                        "save": 740.0,
+                        "is_logged_user_exclusive": true
+                    },
+                    "is_prime": true,
+                    "is_openbox": false,
+                    "has_free_shipping": false,
+                    "has_free_shipping_for_prime_user": false,
+                    "is_pre_order": false,
+                    "date_pre_order": 0,
+                    "available": true,
+                    "score_of_ratings": 0,
+                    "number_of_ratings": 0,
+                    "marketplace": {},
+                    "manufacturer": {
+                        "id": 2,
+                        "name": "MSI",
+                        "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-msi.jpg"
+                    },
+                    "ufs_flash": [],
+                    "stamps": null,
+                    "images": [
+                        "https://images.kabum.com.br/produtos/fotos/620580/notebook-gamer-msi-creator-m16-hx-intel-core-i7-14700hx-32gb-ram-ssd-1tb-16-ips-fhd-144hz-rtx-4050-win-11-pro-cinza-9s7-15p212-659_1730404586_m.jpg"
+                    ],
+                    "newtail": {
+                        "click_url": "https://events.newtail-media.newtail.com.br/v1/beacon/click/db729e7e-414d-457c-b7ba-666bacfc11b5?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=ba9853e1-6e9c-4cc0-af33-fd2fec49f3af&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=68011e2d6a77fa92f81ccde8cfccc7b9161ce257dcfc85b8514833fca977be2a",
+                        "impression_url": "https://events.newtail-media.newtail.com.br/v1/beacon/impression/db729e7e-414d-457c-b7ba-666bacfc11b5?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=ba9853e1-6e9c-4cc0-af33-fd2fec49f3af&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=c36dae0fcb7b39fc349fc2a81542d4cad5e8dbc556c35a48af97e2d1fd8e9827",
+                        "view_url": "https://events.newtail-media.newtail.com.br/v1/beacon/view/db729e7e-414d-457c-b7ba-666bacfc11b5?publisher_id=fc855527-f0b7-4438-b30a-9ea3284241d8&ad_type=product&campaign_id=f8743cec-2ae4-42fc-a173-644b394ad7ef&pname=produto&context=category&event_id=ba9853e1-6e9c-4cc0-af33-fd2fec49f3af&request_id=7e10df80-bc5f-4240-baa4-a124a607190c&session_id=960343832f14c03374958df776d02991&requested_at=1734741771048&sign=8b47db33367b2ee904422c52ee148547eb5c3a1d30519426640c88494520d0ab",
+                        "destination_url": "https://www.kabum.com.br/produto/620580/notebook-gamer-msi-creator-m16-hx-intel-core-i7-14700hx-32gb-ram-ssd-1tb-16-ips-fhd-144hz-rtx-4050-win-11-pro-cinza-9s7-15p212-659"
+                    },
+                    "max_installment": "10x de R$ 1644,44",
+                    "max_installment_prime": "10x de R$ 1562,22"
+                }
+            }
+        ]
+    }
+}
