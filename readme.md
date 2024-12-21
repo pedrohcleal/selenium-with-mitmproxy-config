@@ -31,7 +31,7 @@ This project demonstrates how to integrate [Selenium](https://www.selenium.dev/)
 1. Clone the repository:
 
    ```bash
-   git https://github.com/pedrohcleal/selenium-with-proxy-config.git
+   git clone https://github.com/pedrohcleal/selenium-with-proxy-config.git
    cd selenium-with-proxy-config
    ```
 
