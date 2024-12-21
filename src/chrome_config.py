@@ -22,7 +22,7 @@ def get_driver() -> Generator[WebDriver, Any, None]:
         proxy_port,
         "-s",
         "src/mitm_script.py",
-        "--quiet",  # Adiciona o parâmetro --quiet
+        "--quiet",
     ]
     mitmproxy_process = subprocess.Popen(mitmproxy_command)
 
