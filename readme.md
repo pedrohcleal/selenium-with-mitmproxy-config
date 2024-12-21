@@ -41,12 +41,6 @@ This project demonstrates how to integrate [Selenium](https://www.selenium.dev/)
    pip install -r requirements.txt
    ```
 
-1. Install MITM Proxy:
-
-   ```bash
-   pip install mitmproxy
-   ```
-
 ## Usage
 
 1. Start the application:
