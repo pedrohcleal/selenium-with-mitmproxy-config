@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![MITM Proxy](https://img.shields.io/badge/mitmproxy-FF5733?style=flat&logo=mitmproxy&logoColor=white)
+![JSON](https://img.shields.io/badge/json-000000?style=flat&logo=json&logoColor=white)
+![WebDriver Manager](https://img.shields.io/badge/webdriver--manager-0000FF?style=flat&logo=googlechrome&logoColor=white)
+
 # Selenium com MITM Proxy
 
 Este projeto demonstra como integrar o [Selenium](https://www.selenium.dev/) com o [MITM Proxy](https://mitmproxy.org/) para interceptar e salvar respostas HTTP. A aplicação busca dados de produtos do site Kabum e os registra em arquivos JSON para análise posterior.
@@ -25,8 +31,8 @@ Este projeto demonstra como integrar o [Selenium](https://www.selenium.dev/) com
 1. Clone o repositório:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git https://github.com/pedrohcleal/selenium-with-proxy-config.git
+   cd selenium-with-proxy-config
    ```
 
 1. Instale as dependências necessárias:
@@ -102,7 +108,3 @@ Os arquivos JSON gerados no diretório `products` terão a seguinte aparência:
 
 - Certifique-se de que o MITM Proxy está devidamente instalado e acessível no PATH do seu sistema.
 - Modifique a função `response` em `src/mitm_script.py` para lidar com formatos adicionais de resposta, se necessário.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
