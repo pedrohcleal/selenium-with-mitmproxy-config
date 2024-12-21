@@ -7,14 +7,14 @@ from time import sleep
 def response(flow: http.HTTPFlow):
     if "servicespub.prod.api.aws" in flow.request.url:
         response_info = {
-            "Host": flow.request.host,  # Não precisa de json.loads
-            "Path": flow.request.path,  # Não precisa de json.loads
-            "URL": flow.request.url,  # Não precisa de json.loads
-            "Status": flow.response.status_code,  # Não precisa de json.loads
+            "Host": flow.request.host,
+            "Path": flow.request.path,
+            "URL": flow.request.url,
+            "Status": flow.response.status_code,
             "Headers": dict(
                 flow.response.headers
-            ),  # Converta para dict, pois headers podem ser um objeto especial
-            "Body": json.loads(flow.response.text),  # Mantenha como texto puro
+            ),
+            "Body": json.loads(flow.response.text),
         }
 
         date_now = datetime.now().strftime("%Y%m%d-%H%M%S")
